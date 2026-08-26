@@ -12,7 +12,7 @@
 
 ```bash
 # Clonar repositorio
-git clone <tu-repositorio>
+git clone https://github.com/Santiago-Madrid/mcp.git
 
 # Instalar dependencias
 pip install -r requirements.txt
